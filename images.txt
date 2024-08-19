@@ -1,1 +1,1 @@
-elestio/uptime-kuma:1.23.13
+ grafana/grafana-oss:10.0.0-ubuntu
