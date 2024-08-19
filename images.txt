@@ -1,1 +1,1 @@
- grafana/grafana-oss:10.0.0-ubuntu
+prom/prometheus:v2.54.0
