@@ -1,1 +1,1 @@
-bitnami/redis:6.2.7
+bitnami/redis:6.2.14
